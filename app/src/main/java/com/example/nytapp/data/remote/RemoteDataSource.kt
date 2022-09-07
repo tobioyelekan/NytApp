@@ -1,7 +1,7 @@
 package com.example.nytapp.data.remote
 
 import com.example.nytapp.data.model.TopStoriesResponse
-import com.example.nytapp.helper.Resource
+import com.example.nytapp.helpers.Resource
 import com.example.nytapp.helpers.makeCall
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext

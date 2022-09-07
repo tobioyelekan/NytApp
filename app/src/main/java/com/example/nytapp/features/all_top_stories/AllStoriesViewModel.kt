@@ -3,7 +3,7 @@ package com.example.nytapp.features.all_top_stories
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.nytapp.data.model.TopStoryData
-import com.example.nytapp.helper.Resource
+import com.example.nytapp.helpers.Resource
 import com.example.nytapp.repositories.TopStoryRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableSharedFlow

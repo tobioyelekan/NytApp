@@ -3,7 +3,7 @@ package com.example.nytapp.features.all_top_stories
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import app.cash.turbine.test
 import com.example.nytapp.data.model.TopStoryData
-import com.example.nytapp.helper.Resource
+import com.example.nytapp.helpers.Resource
 import com.example.nytapp.repositories.TopStoryRepository
 import com.example.nytapp.MainCoroutineRule
 import com.example.nytapp.SampleTestData

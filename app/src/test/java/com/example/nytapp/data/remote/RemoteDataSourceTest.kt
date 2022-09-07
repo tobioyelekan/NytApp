@@ -3,7 +3,7 @@ package com.example.nytapp.data.remote
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import com.example.nytapp.MainCoroutineRule
 import com.example.nytapp.SampleTestData
-import com.example.nytapp.helper.Resource
+import com.example.nytapp.helpers.Resource
 import io.mockk.coEvery
 import io.mockk.coVerify
 import io.mockk.mockk

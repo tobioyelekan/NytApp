@@ -4,7 +4,7 @@ import com.example.nytapp.data.local.LocalDataSource
 import com.example.nytapp.data.mappers.TopStoryResponseMapper
 import com.example.nytapp.data.model.TopStoryData
 import com.example.nytapp.data.remote.RemoteDataSource
-import com.example.nytapp.helper.Resource
+import com.example.nytapp.helpers.Resource
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 
